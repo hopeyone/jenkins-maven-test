@@ -29,8 +29,6 @@
     </repository>
   </distributionManagement>
 
-  <build>
-  </build>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
