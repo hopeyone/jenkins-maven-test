@@ -24,7 +24,7 @@
   </scm>
   <distributionManagement>
     <repository>
-      <id>artifact-repository</id>
+      <id>nexus</id>
       <url>http://localhost:8081/nexus/content/repositories/releases/</url>
     </repository>
   </distributionManagement>
